@@ -1,3 +1,6 @@
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=win929)](https://solved.ac/win929)
+
 <div>
   <a href="https://www.instagram.com/2e0jin_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://sudoprogramming.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
@@ -13,9 +16,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
 </div>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=win929)](https://solved.ac/win929)
 
 <!--
 **win929/win929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
