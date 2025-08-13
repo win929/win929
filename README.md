@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=200&section=header&text=👋Hello,%20I'm%20Leo🦁&fontSize=70&animation=fadeIn&fontAlignY=35&desc=백엔드%20개발자%20'리오'입니다.)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=win929)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=win929)](https://solved.ac/win929)
 
@@ -18,18 +22,3 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 </div>
-
-<!--
-**win929/win929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
