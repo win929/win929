@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=200&section=header&text=👋Hello,%20I'm%20Leo🦁&fontSize=70&animation=fadeIn&fontAlignY=35&desc=백엔드%20개발자%20'리오'입니다.)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=win929)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=win929&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=win929)](https://solved.ac/win929)
 
@@ -24,24 +24,25 @@
 
 ## 📁 Projects
 ### 무쉼사: 무더위 쉼터를 찾는 사람들
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temp&repo=temp&theme=vue-dark)](#)
 - **기간:** 2025.08 ~ (진행 중)
 - **설명:** 무더위 쉼터를 찾고 리뷰를 남길 수 있는 앱
 - **기술 스택:** Java, Spring 등 (예정)  
 - **주요 역할:** 백엔드 테크 리더
-- **링크:** [추후 추가 예정](#)
 
 ---
 
 ### 카카오톡 선물하기 클론 코딩 프로젝트
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=win929&repo=spring-gift-order&theme=vue-dark)](https://github.com/win929/spring-gift-order/tree/win929)
 - **기간:** 2025.06 ~ 2025.07
 - **설명:** 카카오톡 선물하기 클론 코딩
 - **기술 스택:** Java, Spring, H2
 - **주요 역할:** 개인 프로젝트
-- **링크:** [GitHub 레포지토리](https://github.com/win929/spring-gift-order/tree/win929)
 
 ---
 
 ### SSACTHREE Book Store
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-be7-Ssacthree&repo=ssacthree-shop-api&theme=vue-dark)](https://github.com/nhnacademy-be7-Ssacthree)
 - **기간:** 2024.10 ~ 2024.12  
 - **설명:** Spring Framework를 학습한 후 만든 인터넷 서점 쇼핑몰
 - **기술 스택:** Java, Spring, MySQL 등
@@ -50,7 +51,6 @@
   - 관리자 페이지 포인트 정책 구현
   - 관리자 페이지 쿠폰 정책 구현
   - 쿠폰 구현
-- **링크:** [GitHub 레포지토리](https://github.com/nhnacademy-be7-Ssacthree)
 
 <br>
 
