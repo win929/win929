@@ -24,7 +24,7 @@
 
 ## 📁 Projects
 ### 무쉼사: 무더위 쉼터를 찾는 사람들
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temp&repo=temp&theme=vue-dark)](#)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kakao-tech-campus-3rd-step3&repo=Team19_BE&theme=vue-dark)](https://github.com/kakao-tech-campus-3rd-step3/Team19_BE)
 - **기간:** 2025.08 ~ (진행 중)
 - **설명:** 무더위 쉼터를 찾고 리뷰를 남길 수 있는 앱
 - **기술 스택:** Java, Spring 등 (예정)  
