@@ -33,7 +33,7 @@
 ---
 
 ### 카카오톡 선물하기 클론 코딩 프로젝트
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=win929&repo=spring-gift-order&theme=vue-dark)](https://github.com/win929/spring-gift-order/tree/win929)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=win929&repo=spring-gift-order&description&theme=vue-dark)](https://github.com/win929/spring-gift-order/tree/win929)
 - **기간:** 2025.06 ~ 2025.07
 - **설명:** 카카오톡 선물하기 클론 코딩
 - **기술 스택:** Java, Spring, H2
