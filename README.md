@@ -89,9 +89,9 @@
 ## 📚 Publications
 ### 미국 LA 범죄 집중지역 분석: 사회경제적 지표를 활용한 데이터 기반 클러스터링 접근법
 - **저자:** 허재민, 이수민, 박소정, 이어진, 최유민, 조석헌  
-- **학회/저널명:** 한국컴퓨터종합학술대회(KCC 2025)  
-- **발표년도:** 2025년  
-- **논문 링크:** [논문 링크](#) (추후 추가 예정)
+- **학술지명:** 한국정보과학회 학술발표논문집
+- **발행연도:** 2025년  
+- **논문 링크:** [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318856) [PDF](https://drive.google.com/file/d/1zdnE06w72wFcVoUWwYEbFe4JvMi9FFT9/view?usp=sharing)
 
 <br>
 
