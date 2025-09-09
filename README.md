@@ -91,7 +91,7 @@
 - **저자:** 허재민, 이수민, 박소정, 이어진, 최유민, 조석헌  
 - **학술지명:** 한국정보과학회 학술발표논문집
 - **발행연도:** 2025년  
-- **논문 링크:** [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318856) [PDF](https://drive.google.com/file/d/1zdnE06w72wFcVoUWwYEbFe4JvMi9FFT9/view?usp=sharing)
+- **논문 링크:** [DBPia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318856) [PDF](https://github.com/win929/win929/blob/adbe855b6f923e35da420f0bb7750f8ddfbf3c1a/14_Team06_Analysis%20of%20Crime%20Hotspots%20in%20Los%20Angeles%20(A%20Data-driven%20Clustering%20Approach%20Using%20Socioeconomic%20Indicators)_v0.81.pdf)
 
 <br>
 
