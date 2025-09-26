@@ -4,6 +4,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=win929)](https://solved.ac/win929)
 
+## ⭐️ Portfolio
+### 👉 [더 자세한 이력서 및 프로젝트 경험은 여기를 클릭해주세요!](https://2e0jin-leo-ulroa337.notion.site/Hi-I-m-Leo-1c12b83f92108010967cd4d3ed1019f7?pvs=74)
+
+<br>
+
 ## 🛠 Skills and Tools
 ### 📝 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -66,8 +71,6 @@
 - 글로벌 SW·AI 인재 프로그램 (2024.05 ~ 2025.02)
 - NHN Academy 5기 백엔드 수료 (2024.07 ~ 2024.12)
 - 충남대학교 컴퓨터융합학부 동아리 ADMIN 교육부장 (2024.01 ~ 2024.12)
-- ADMIN Database 교육 (2024.11)
-- ADMIN 신입생 Java 교육 (2024.03 ~ 2024.05)
 
 <br>
 
@@ -75,7 +78,6 @@
 - 🥉 CNU SW/AI Project Fair DevDay 코딩경진대회 장려상 (2025.06)
 - 🥉 CNU SW/AI Project Fair DevDay 코딩경진대회 장려상 (2024.06)
 - 🥉 CNU 창의 SW/AI 축전 DevDay 코딩경진대회 동상 (2023.11)
-- 🥉 충남대학교 ARGOS CTF CONTEST J.F.S. 특별상 (2023.11)
 
 <br>
 
